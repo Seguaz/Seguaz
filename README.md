@@ -12,6 +12,10 @@
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL)
   
 </div>
+---
+
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="noelia-segura-seguaz-50385b38b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/noelia-segura-seguaz-50385b38b?trk=profile-badge">Noelia Segura (Seguaz)</a></div>
+              
 
 ---
 
