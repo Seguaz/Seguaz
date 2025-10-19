@@ -1,11 +1,11 @@
-# 👋 ¡Hola! Soy Seguaz
+# 👋 Hello! I'm Seguaz
 
 <div align="center">
   
   <!-- logo -->
   <img src="https://github.com/Seguaz/Seguaz/blob/main/assets/logo.png" alt="Logo Seguaz" width="200"/>
   
-  ### 💻 Desarrolladora Web Full Stack | Servicios Informáticos
+  ### 💻 Full Stack Web Developer | IT Services
   
   [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seguaz.online)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noeseguaz@gmail.com)
@@ -15,21 +15,21 @@
 
 ---
 
-## 🚀 Sobre Mí
+## 🚀 About Me
 
-Soy una desarrolladora apasionada por crear soluciones web personalizadas y ofrecer servicios informáticos de calidad. Me especializo en el desarrollo de páginas web a código, priorizando la optimización, el diseño responsive y la mejor experiencia de usuario.
+I'm a passionate developer focused on creating custom web solutions and providing quality IT services. I specialize in code-based web development, prioritizing optimization, responsive design, and the best user experience.
 
-### 🎯 ¿Qué ofrezco?
+### 🎯 What do I offer?
 
-- 🌐 **Desarrollo de páginas web** a medida con código optimizado
-- 💼 **Servicios informáticos** generales y consultoría
-- 🎨 **Diseño web responsive** adaptado a todos los dispositivos
-- ⚡ **Optimización y rendimiento** para sitios web rápidos
-- 🔧 **Soporte técnico** y mantenimiento continuo
+- 🌐 **Custom web development** with optimized code
+- 💼 **General IT services** and consulting
+- 🎨 **Responsive web design** adapted to all devices
+- ⚡ **Optimization and performance** for fast websites
+- 🔧 **Technical support** and continuous maintenance
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Technologies & Tools
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -49,22 +49,22 @@ Soy una desarrolladora apasionada por crear soluciones web personalizadas y ofre
 
 ---
 
-## 🌟 Proyectos Destacados
+## 🌟 Featured Projects
 
-- Nada por el momento.
+- Nothing at the moment.
 
 ---
 
-## 📫 ¿Hablamos?
+## 📫 Let's talk?
 
-Estoy siempre abierta a nuevos proyectos y colaboraciones. Si necesitas:
+I'm always open to new projects and collaborations. If you need:
 
-- 🌐 Una página web profesional
-- 💡 Asesoramiento técnico
-- 🤝 Colaborar en un proyecto
-- ☕ Simplemente charlar sobre tecnología
+- 🌐 A professional website
+- 💡 Technical advice
+- 🤝 Collaborate on a project
+- ☕ Simply chat about technology
 
-**¡No dudes en contactarme!**
+**Don't hesitate to contact me!**
 
 <div align="center">
   
@@ -79,9 +79,9 @@ Estoy siempre abierta a nuevos proyectos y colaboraciones. Si necesitas:
 
 <div align="center">
   
-  ### 💼 Disponible para proyectos freelance
+  ### 💼 Available for freelance projects
   
-  ⭐ **Si te gusta mi trabajo, no olvides dejar una estrella en mis repositorios** ⭐
+  ⭐ **If you like my work, don't forget to leave a star on my repositories** ⭐
   
 </div>
 
