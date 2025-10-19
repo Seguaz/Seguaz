@@ -2,8 +2,8 @@
 
 <div align="center">
   
-  <!-- Aquí puedes agregar tu logotipo -->
-  <!-- <img src="URL_DE_TU_LOGOTIPO" alt="Logo Seguaz" width="200"/> -->
+  <!-- logo -->
+  <img src="https://github.com/Seguaz/Seguaz/blob/main/assets/logo.png" alt="Logo Seguaz" width="200"/>
   
   ### 💻 Desarrollador Web Full Stack | Servicios Informáticos
   
