@@ -8,6 +8,7 @@
   ### 💻 Full Stack Web Developer | IT Services
   
   [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seguaz.online)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/34618079862)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noeseguaz@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelia-segura-seguaz-50385b38b/)
   
@@ -51,7 +52,10 @@ I'm a passionate developer focused on creating custom web solutions and providin
 
 ## 🌟 Featured Projects
 
-- Nothing at the moment.
+### 🌐 [Personal Portfolio Website](https://github.com/Seguaz/seguaz-main)
+Modern and animated portfolio website featuring stunning visual effects, dark/light mode, custom cursor, and glassmorphism design. Built with HTML5, CSS3, and JavaScript.
+
+**Tech Stack:** HTML5 • CSS3 • JavaScript • Bootstrap • Canvas API
 
 ---
 
@@ -69,8 +73,9 @@ I'm always open to new projects and collaborations. If you need:
 <div align="center">
   
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noeseguaz@gmail.com)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/34618079862)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelia-segura-seguaz-50385b38b/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/noeliaseguaz/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seguaz_/)
   [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seguaz.online)
   
 </div>
