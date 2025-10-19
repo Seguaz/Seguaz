@@ -5,7 +5,7 @@
   <!-- logo -->
   <img src="https://github.com/Seguaz/Seguaz/blob/main/assets/logo.png" alt="Logo Seguaz" width="200"/>
   
-  ### 💻 Desarrollador Web Full Stack | Servicios Informáticos
+  ### 💻 Desarrolladora Web Full Stack | Servicios Informáticos
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](TU_URL)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINKEDIN)
@@ -17,7 +17,7 @@
 
 ## 🚀 Sobre Mí
 
-Soy un desarrollador apasionado por crear soluciones web personalizadas y ofrecer servicios informáticos de calidad. Me especializo en el desarrollo de páginas web a código, priorizando la optimización, el diseño responsive y la mejor experiencia de usuario.
+Soy una desarrolladora apasionada por crear soluciones web personalizadas y ofrecer servicios informáticos de calidad. Me especializo en el desarrollo de páginas web a código, priorizando la optimización, el diseño responsive y la mejor experiencia de usuario.
 
 ```javascript
 const seguaz = {
@@ -64,36 +64,15 @@ const seguaz = {
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seguaz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seguaz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Seguaz&theme=radical&hide_border=true&background=0D1117)
-
-</div>
-
----
-
 ## 🌟 Proyectos Destacados
 
-### 🎮 [AMIGARK](https://github.com/Seguaz/AMIGARK)
-Proyecto de servidor de Minecraft con configuración personalizada y plugins optimizados.
-
-### 🗳️ [Anime Voting System](https://github.com/Seguaz/anime_voting-main)
-Sistema de votación de anime con integración de APIs (AniList, MyAnimeList) y gestión de nominaciones.
-
-### 🌐 [Tortutravel](https://github.com/Seguaz/Tortutravel)
-Sitio web completo para agencia de viajes con sistema de reservas y diseño responsive.
+- Nada por el momento.
 
 ---
 
 ## 📫 ¿Hablamos?
 
-Estoy siempre abierto a nuevos proyectos y colaboraciones. Si necesitas:
+Estoy siempre abierta a nuevos proyectos y colaboraciones. Si necesitas:
 
 - 🌐 Una página web profesional
 - 💡 Asesoramiento técnico
