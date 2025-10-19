@@ -82,8 +82,6 @@ Estoy siempre abierta a nuevos proyectos y colaboraciones. Si necesitas:
   
   ### 💼 Disponible para proyectos freelance
   
-  ![Visitor Count](https://profile-counter.glitch.me/Seguaz/count.svg)
-  
   ⭐ **Si te gusta mi trabajo, no olvides dejar una estrella en mis repositorios** ⭐
   
 </div>
